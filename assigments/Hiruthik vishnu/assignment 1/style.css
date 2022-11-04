@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.first-box{
+    margin: 50px;
+    height: 50px;
+}
+.soc{
+    float: right;
+}
+.soc i{
+    margin: 10px;
+}
+.s-blue{
+    display: flex;
+    margin: 50px;
+    color: aliceblue;
+    background-color: #237ed3;
+    align-items: space-between;
+}
+.second-box h1,h2{
+    text-align: center;
+}
+.btn-1{
+    background-color: rgb(184, 12, 12);
+    color: rgb(255, 255, 255);
+    width: 80px;
+    border-radius: 10px 0 10px 0;
+}
+.btn-div{
+    text-align: center;
+}
+.ss-1{
+    margin: 0 auto;
+}
+.ss-2 {
+    margin: 20px;
+    padding: 20px;
+}
+.ss-2 img{
+    width: 80px;
+}
+.about{
+    margin: 0;
+    padding: 0;
+}
+.about-pre{
+    font-size:1.3rem;
+}
